@@ -30,6 +30,7 @@ class ReverseString {
 	}
 	
 	  public static String reverseStringUsingLambda(String str) {
-   return Arrays.stream(str.split("")).sorted(Comparator.reverseOrder()).collect(Collectors.joining());
+          return Arrays.stream(str.split("")).sorted(Comparator.reverseOrder())
+		       .collect(Collectors.joining());
   }
 }
