@@ -1,6 +1,6 @@
 # Java-8-Interview-Coding-Questions-By-Nitin-Kumar
 
-<h3># Java Memory Model (JMM) – Simple & In-Depth with Java 8 Updates </h3>
+<h3>Java Memory Model (JMM) – Simple & In-Depth with Java 8 Updates </h3>
 
 ## Diagram
 
